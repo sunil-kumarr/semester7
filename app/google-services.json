@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "748614877776",
+    "firebase_url": "https://myfirebasedemoapp1.firebaseio.com",
+    "project_id": "myfirebasedemoapp1",
+    "storage_bucket": "myfirebasedemoapp1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748614877776:android:2cb6d26f1be2fe28",
+        "android_client_info": {
+          "package_name": "com.example.meenutarun.cse227"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748614877776-0tv5loj7h9ag492s7gtl61o0e4jsh5l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw-7j02NjOcL41Qz6T0oCBPThL8u9uc3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748614877776-0tv5loj7h9ag492s7gtl61o0e4jsh5l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
